@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:wheel="http://schemas.android.com/apk/res-auto"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <com.pnikosis.materialishprogress.ProgressWheel
+            android:id="@+id/progress_wheel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            wheel:matProg_barColor="#0995E0"
+            wheel:matProg_progressIndeterminate="true"
+            wheel:matProg_barWidth="3dp"
+            wheel:matProg_circleRadius="30dip"
+            wheel:matProg_spinSpeed="2.2"
+
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

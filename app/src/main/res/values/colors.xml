@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2093da</color>
+    <color name="colorPrimaryDark">#2093da</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary2">#0995E0</color>
+    <color name="colorPrimary3">#000000</color>
+    <color name="introTitle">#ffffff</color>
+    <color name="introDesc">#ffffff</color>
+    <color name="hintColor">#cccccc</color>
+    <color name="tagBgColor">#efefef</color>
+    <color name="tagTextColor">#838383</color>
+    <color name="colorPrimaryActionBar">#333333</color>
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Mahmz</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="intro_title1">Welcome</string>
+    <string name="intro_title2">Easy and Nice</string>
+    <string name="intro_title3">Develop Faster</string>
+    <string name="intro_title4">Great Startup</string>
+
+    <string name="intro_desc1">A Great sample android project to start with</string>
+    <string name="intro_desc2">The project support multi nice and flexible interface</string>
+    <string name="intro_desc3">You have all the needed helper classes to start your app</string>
+    <string name="intro_desc4">Just start your project without long time efforts</string>
+
+    <string name="login_button">Login</string>
+    <string name="register_button">Sign up</string>
+
+    <string name="usernameoremaıl">Username or Email</string>
+    <string name="password">Password</string>
+
+    <string name="forgotPassword">forgot password</string>
+    <string name="LoginDesc">you can login by your username or email</string>
+    <string name="RegısterDesc">register and join at my sample project</string>
+
+    <string name="fırstname">Fırst Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="emaıl">Emaıl</string>
+    <string name="username">Username</string>
+
+    <string name="emailActivate">Please Go To Your Email And Activate Your Account.</string>
+    <string name="emailExist">Email or Username already exist</string>
+
+    <string name="successRegistration">Successful Registration</string>
+    <string name="information">Information</string>
+    <string name="invalidUserOrPass">Invalid username or password</string>
+
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+</resources>

@@ -35,16 +35,16 @@ this class will provide HTTP POST or GET Methods for JSONObject as http request 
 **usersUrl:** post url for users fragment "http://domain.com/users.php".
 
 ## Used Libraries
-com.android.support:cardview-v7:22.2.1'
-com.squareup.picasso:picasso:2.5.2'
-com.github.bumptech.glide:glide:3.6.1'
-jp.wasabeef:recyclerview-animators:1.3.0'
-com.nineoldandroids:library:2.4.0'
-com.daimajia.easing:library:1.0.1@aar'
-com.daimajia.androidanimations:library:1.1.3@aar'
-com.yqritc:android-scalablevideoview:1.0.3'
+- com.android.support:cardview-v7:22.2.1'
+- com.squareup.picasso:picasso:2.5.2'
+- com.github.bumptech.glide:glide:3.6.1'
+- jp.wasabeef:recyclerview-animators:1.3.0'
+- com.nineoldandroids:library:2.4.0'
+- com.daimajia.easing:library:1.0.1@aar'
+- com.daimajia.androidanimations:library:1.1.3@aar'
+- com.yqritc:android-scalablevideoview:1.0.3'
 
-## Creadit
+## Credit
 The startup introduction video is a bmw promo edittied and modified.
 The car images which used in the project belongs to thier websites resources, it is better to replace them.
 

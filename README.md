@@ -11,9 +11,9 @@ Fast Android is a great startup project to develop and get your android applicat
 
 
 ## Main Clasess
-####HttpPost Class under Classes:
+#### HttpPost Class under Classes:
 this class will provide HTTP POST or GET Methods for JSONObject as http request values/parameters.
-####Config Class under Settings:
+#### Config Class under Settings:
 **testDemo:** enable/disable demo mode, default is true.
 
 **enableVideoIntro:** enable/disable Inroduction Video, default is true.

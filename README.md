@@ -12,7 +12,7 @@ Fast Android is a great startup project to develop and get your android applicat
 
 ## Main Clasess
 ####HttpPost Class under Classes:
-this class will provide HTTP POST or GET request for JSONObject as http request values/parameters.
+this class will provide HTTP POST or GET Methods for JSONObject as http request values/parameters.
 ####Config Class under Settings:
 **testDemo:** enable/disable demo mode, default is true.
 
@@ -33,6 +33,19 @@ this class will provide HTTP POST or GET request for JSONObject as http request 
 **postsUrl:** post url for posts fragment "http://domain.com/posts.php".
 
 **usersUrl:** post url for users fragment "http://domain.com/users.php".
+
+
+## Creadit
+The startup introduction video is a bmw promo edittied and modified.
+The car images which is used in the project belongs to thier websites resources, it is better to replace them.
+
+## License
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+please check License file included on the repository root.
+Copyright (c) 2017 http://mahmz.com
+
 
 
 
